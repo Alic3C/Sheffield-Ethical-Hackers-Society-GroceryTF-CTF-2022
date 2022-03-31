@@ -1,4 +1,4 @@
-# John's birthday #1
+# John's Birthday #1
 > 50pts
 
 ## Breifing
@@ -13,6 +13,9 @@ John's father placed a small note at the foot of john's bed before he got up. Th
 Answer hint:SESH{Xxxxx_Xxxxx}
 
 ## Solution
+[CyberChef](https://gchq.github.io/CyberChef/#recipe=ROT13(true,true,false,11)&input=U2d4Y3poX1VneHN2dA) makes light work of this challenge:
+
+![CyberChef.png](CyberChef.png)
 
 ## Flag
-Flag: ` `
+Flag: `SESH{Drinks_Fridge}`

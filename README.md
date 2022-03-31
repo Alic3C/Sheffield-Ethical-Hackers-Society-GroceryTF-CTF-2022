@@ -23,7 +23,7 @@ These have been organized in order they appear on the site:
 ### OSINT
 | 150pts | 
 | ------ |
-| Open Source Intelligence |
+| [Open Source Intelligence](OSINT/Open%20Source%20Intelligence) |
 
 ### Web
 | 50pts | 110pts | 150pts |
@@ -33,7 +33,7 @@ These have been organized in order they appear on the site:
 ### GEOINT
 | 100pts |
 | ------ |
-| Geographically Exposed |
+| [Geographically Exposed](GEOINT/Geographically%20Exposed) |
 
 ### Forensics
 | 100pts |

@@ -9,11 +9,55 @@ Thurs 31st March 12:00 BST - Sat 2nd April 17:00 BST
 ## Leaderboard 
 * [GroceryTF Leaderboard](https://ctf.shefesh.com/scoreboard)
 
-## Challenge Difficulties
-TBC
-
 ## Challenge Writeups
 These have been organized in order they appear on the site:
+
+### Cryptography
+| 50pts | 100pts | 200pts | 250pts |
+| ----- | ------ | ------ | ------ |
+| [64 Raspberries](Cryptography/64%20Raspberries) | Tapped Into System | Vinegar | Requirements Secretly Analysed |
+| [2 Attempts](Cryptography/2%20Attempts) | | | Tyger Tyger, Burning Bright |
+| [Caesar Salad](Cryptography/Caesar%20Salad) |
+| John's Birthday #1 | 
+
+### OSINT
+| 150pts | 
+| ------ |
+| Open Source Intelligence |
+
+### Web
+| 50pts | 110pts | 150pts |
+| ----- | ------ | ------ |
+| Robotic | Closing Time | Cache Me Outside |
+
+### GEOINT
+| 100pts |
+| ------ |
+| Geographically Exposed |
+
+### Forensics
+| 100pts |
+| ------ |
+| [Private Investigitter Part 1 - Bad Habits](Forensics/Private%20Investigitter%20Part%201%20-%20Bad%20Habits) |
+| Private Investigitter Part 2 - Unfocused |
+| Private Investigitter Part 3 - Cloudy with a Chance of Secrets |
+| Private Investigitter Part 4 - Not Even Remotely Secure |
+
+### Miscellaneous
+| 25pts |
+| ----- |
+| [Easy Peasy](Miscellaneous/Easy%20Peasy) |
+| [Read the Rules](Miscellaneous/Read%20the%20Rules) |
+
+### Steganography
+| 65pts |
+| ----- |
+| A Strange Caterpillar Message |
+
+### Boot2Root
+| 50pts |
+| ----- |
+| Heist Part 1 - Where's our Console |
 
 ## Event Info & Code of Conduct
 ### Event Info

@@ -16,6 +16,7 @@ What did the student see?
 This challenge is effectively broken down into 3 parts:
 
 ### Mark
+Looking at [Mac's Blog](https://www.mac-goodwin.com/compsci/#techs-and-interests), we can see he achieved 99% in his functional programming module.
 
 ### Place
 Looking at [Mac's Twitter](https://twitter.com/mac__goodwin), we can see his location is set to `Manchester`:
@@ -30,4 +31,4 @@ On [LinkedIn](https://www.linkedin.com/in/mac-goodwin/) we can see Mac worked as
 ![LinkedIn.png](LinkedIn.png)
 
 ## Flag
-Flag: ` `
+Flag: `SESH{99_manchester_intern}`

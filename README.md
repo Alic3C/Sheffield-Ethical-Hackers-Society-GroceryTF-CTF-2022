@@ -16,9 +16,9 @@ These have been organized in order they appear on the site:
 | 50pts | 100pts | 200pts | 250pts |
 | ----- | ------ | ------ | ------ |
 | [64 Raspberries](Cryptography/64%20Raspberries) | Tapped Into System | Vinegar | Requirements Secretly Analysed |
-| [2 Attempts](Cryptography/2%20Attempts) | 
+| [2 Attempts](Cryptography/2%20Attempts) | | | Tyger Tyger, Burning Bright |
 | [Caesar Salad](Cryptography/Caesar%20Salad) |
-| John's birthday #1 | 
+| John's Birthday #1 | 
 
 ### OSINT
 | 150pts | 

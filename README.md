@@ -55,9 +55,9 @@ These have been organized in order they appear on the site:
 | A Strange Caterpillar Message |
 
 ### Boot2Root
-| 50pts |
-| ----- |
-| Heist Part 1 - Where's our Console |
+| 50pts | 100pts |
+| ----- | ------ |
+| [Heist Part 1 - Where's our Console](Boot2Root/Heist%20Part%201%20-%20Where's%20our%20Console) | Heist Part 2 - Bad Hygiene |
 
 ## Event Info & Code of Conduct
 ### Event Info
@@ -85,3 +85,6 @@ SESH{EasyP34sYLem0nSque3zy}
 * Flags are in the format SESH{*}
 * Be nice to each other in the [Discord](https://discord.com/invite/PwuM5BxztC)
 * Good luck! Here's a flag for reading the rules: SESH{y0u_r34d_th3_rules}
+
+
+![CTF_logo.png](CTF_logo.png)

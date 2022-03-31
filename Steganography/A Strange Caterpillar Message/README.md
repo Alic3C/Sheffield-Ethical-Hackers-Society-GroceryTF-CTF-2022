@@ -24,7 +24,5 @@ This provides us with a [zip](74E25.zip) and [jpeg](Caterpillar Ception.jpg):
 
 ![Caterpillar Ception.jpg](Caterpillar Ception.jpg)
 
-
-
 ## Flag
 Flag: ` `

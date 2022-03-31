@@ -38,7 +38,7 @@ These have been organized in order they appear on the site:
 ### Forensics
 | 100pts |
 | ------ |
-| Private Investigitter Part 1: Bad Habits](Forensics/Private%20Investigitter%20Part%201%20-%20Bad%20Habits) |
+| [Private Investigitter Part 1: Bad Habits](Forensics/Private%20Investigitter%20Part%201%20-%20Bad%20Habits) |
 | Private Investigitter Part 2 - Unfocused |
 | Private Investigitter Part 3 - Cloudy with a Chance of Secrets |
 | Private Investigitter Part 4 - Not Even Remotely Secure |

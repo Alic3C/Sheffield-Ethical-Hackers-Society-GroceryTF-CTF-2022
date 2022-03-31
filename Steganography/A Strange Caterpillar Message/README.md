@@ -20,9 +20,9 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 503543        0x7AEF7         End of Zip archive, footer length: 22
 ```
 
-This provides us with a [zip](74E25.zip) and [jpeg](Caterpillar Ception.jpg):
+This provides us with a [zip](74E25.zip) and [jpeg](Caterpillar%20Ception.jpg):
 
-![Caterpillar Ception.jpg](Caterpillar Ception.jpg)
+![Caterpillar%20Ception.jpg](Caterpillar%20Ception.jpg)
 
 ## Flag
 Flag: ` `

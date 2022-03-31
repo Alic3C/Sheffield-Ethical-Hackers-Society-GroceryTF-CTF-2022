@@ -13,6 +13,21 @@ What did the student see?
 *format: SESH{mark_place_position}
 
 ## Solution
+This challenge is effectively broken down into 3 parts:
+
+### Mark
+
+### Place
+Looking at [Mac's Twitter](https://twitter.com/mac__goodwin), we can see his location is set to `Manchester`:
+
+![Twitter.png](Twitter.png)
+
+This matches Mac's LinkedIn regarding the location of work experience at NCC.
+
+### Position
+On [LinkedIn](https://www.linkedin.com/in/mac-goodwin/) we can see Mac worked as an `Intern` within the public sector:
+
+![LinkedIn.png](LinkedIn.png)
 
 ## Flag
 Flag: ` `

@@ -6,6 +6,9 @@ Oh no, the store is closing and you need to buy some supplies for your party. Th
 
 http://18.170.40.69:3000/
 
+## Hint
+A cheese and wine party, sounds fun....
+
 ## Solution
 
 ## Flag

@@ -15,7 +15,7 @@ These have been organized in order they appear on the site:
 ### Cryptography
 | 50pts | 100pts | 150pts | 200pts | 250pts |
 | ----- | ------ | ------ | ------ | ------ |
-| [64 Raspberries](Cryptography/64%20Raspberries) | Tapped Into System | John's Birthday #3 | Vinegar | Requirements Secretly Analysed |
+| [64 Raspberries](Cryptography/64%20Raspberries) | Tapped Into System | [John's Birthday #3](Cryptography/John's%20Birthday%20%233) | [Vinegar](Cryptography/Vinegar) | Requirements Secretly Analysed |
 | [2 Attempts](Cryptography/2%20Attempts) | [John's Birthday #2](Cryptography/John's%20Birthday%20%232) | | Tyger Tyger, Burning Bright |
 | [Caesar Salad](Cryptography/Caesar%20Salad) |
 | [John's Birthday #1](Cryptography/John's%20birthday%20%231) | 

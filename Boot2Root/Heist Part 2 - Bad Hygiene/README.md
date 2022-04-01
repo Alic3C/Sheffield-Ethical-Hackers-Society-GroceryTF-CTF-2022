@@ -11,4 +11,4 @@ Think back to our Social Engineering sessions - are there are any personal detai
 Unfourtnatly taking the L on the hint was useless to us as I am not a University of Sheffield student!
 
 ## Flag
-Flag: ` `
+Flag: `SESH{}`

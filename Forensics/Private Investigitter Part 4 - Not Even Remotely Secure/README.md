@@ -7,4 +7,4 @@ Can you find the domain on which the SESH committee host their git server that t
 ## Solution
 
 ## Flag
-Flag: ` `
+Flag: `SESH{}`

@@ -9,4 +9,4 @@ http://18.170.40.69:3000/
 ## Solution
 
 ## Flag
-Flag: ` `
+Flag: `SESH{}`

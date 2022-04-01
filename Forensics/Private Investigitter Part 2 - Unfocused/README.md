@@ -7,4 +7,4 @@ Can you find Mac's password?
 ## Solution
 
 ## Flag
-Flag: ` `
+Flag: `SESH{}`

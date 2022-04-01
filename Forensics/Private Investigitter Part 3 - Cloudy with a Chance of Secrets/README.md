@@ -7,4 +7,4 @@ Can you find an AWS Secret Key somewhere in the git repository?
 ## Solution
 
 ## Flag
-Flag: ` `
+Flag: `SESH{}`

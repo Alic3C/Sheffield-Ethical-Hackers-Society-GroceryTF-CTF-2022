@@ -15,5 +15,22 @@ Fortunately for the owners, they never cracked this hash, but they still identif
 ## Solution
 The provided file can be found [here](rock.png).
 
+The first two provided numbers are in hex, `5` and `8`.
+
+The next two provided numbers are given to us as an MD5 and SHA1 hash, `11` and `14`.
+
+These four numbers allow for us to get the words out of `rockyou.txt`, resulting in:
+
+```
+iloveyou 
+rockyou
+nicole 
+monkey
+```
+
+Following the hint provided within the text given, we get to the hash `tiger192`, 4 hashes.
+
+Using [RFCTools](https://hash.rfctools.com/tiger192-4-hash-generator/), this gives us the hash of `iloveyourockyounicolemonkey`, `7745b7c81ebd5a435c0640f4240007cdae6cc83799c6134d`
+
 ## Flag
-Flag: ` `
+Flag: `SESH{7745b7c81ebd5a435c0640f4240007cdae6cc83799c6134d}`

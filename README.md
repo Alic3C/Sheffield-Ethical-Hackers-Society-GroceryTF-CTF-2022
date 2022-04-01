@@ -28,7 +28,7 @@ These have been organized in order they appear on the site:
 ### Web
 | 50pts | 110pts | 150pts |
 | ----- | ------ | ------ |
-| Robotic | Closing Time | Cache Me Outside |
+| [Robotic](Web/Robotic) | Closing Time | Cache Me Outside |
 
 ### GEOINT
 | 100pts |

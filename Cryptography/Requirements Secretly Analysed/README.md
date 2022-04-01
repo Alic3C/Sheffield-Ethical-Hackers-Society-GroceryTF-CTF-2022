@@ -13,6 +13,19 @@ The decrypted message is a number initially, how would you turn it into letters?
 *format: SESH{decrypted_word}
 
 ## Solution
+Python script time!
+
+```python
+q = 761
+p = 911
+N = p * q
+e = 181
+d = 3821
+c = 677889
+m = pow(c, d, N)
+ms = str(m)
+print(bytes([int(ms[i:i+2]) for i in range(0, len(ms), 2)]).decode())
+```
 
 ## Flag
-Flag: ` `
+Flag: `SESH{BYE}`

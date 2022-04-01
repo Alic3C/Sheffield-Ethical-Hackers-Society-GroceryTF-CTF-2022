@@ -52,7 +52,7 @@ These have been organized in order they appear on the site:
 ### Steganography
 | 65pts |
 | ----- |
-| A Strange Caterpillar Message |
+| [A Strange Caterpillar Message](Steganography/A%20Strange%20Caterpillar%20Message) |
 
 ### Boot2Root
 | 50pts | 100pts |

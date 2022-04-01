@@ -64,4 +64,4 @@ if __name__ == "__main__":
 ![](flag.jpg)
 
 ## Flag
-Flag: ` `
+Flag: `SESH{cOL1N_\/S_Cut7bert}`

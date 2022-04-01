@@ -41,7 +41,7 @@ These have been organized in order they appear on the site:
 | [Private Investigitter Part 1 - Bad Habits](Forensics/Private%20Investigitter%20Part%201%20-%20Bad%20Habits) |
 | [Private Investigitter Part 2 - Unfocused](Forensics/Private%20Investigitter%20Part%202%20-%20Unfocused) |
 | [Private Investigitter Part 3 - Cloudy with a Chance of Secrets](Forensics/Private%20Investigitter%20Part%203%20-%20Cloudy%20with%20a%20Chance%20of%20Secrets) |
-| Private Investigitter Part 4 - Not Even Remotely Secure |
+| [Private Investigitter Part 4 - Not Even Remotely Secure](Forensics/Private%20Investigitter%20Part%204%20-%20Not%20Even%20Remotely%20Secure) |
 
 ### Miscellaneous
 | 25pts |

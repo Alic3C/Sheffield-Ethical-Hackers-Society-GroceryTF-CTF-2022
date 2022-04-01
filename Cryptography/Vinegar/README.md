@@ -11,5 +11,9 @@ Author: Mac
 ## Solution
 The provided file can be found [here](vinegar.txt).
 
+[CyberChef](https://cyberchef.org/#recipe=Vigen%C3%A8re_Decode('bake')&input=U0VNTVFFQ0pQUkZNT0VRRVNFWEhWUERTQ0VYU1VFS1daV1NYSU5ZUEZURElTRQo) makes light work of this challenge:
+
+![CyberChef.png](CyberChef.png)
+
 ## Flag
-Flag: ` `
+Flag: `SESH{RECIPESFORVINEGARENDUPTOBENOTEASYWITHNOLETTERE}`

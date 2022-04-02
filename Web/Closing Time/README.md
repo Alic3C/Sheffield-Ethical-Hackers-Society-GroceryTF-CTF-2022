@@ -10,6 +10,22 @@ http://18.170.40.69:3000/
 A cheese and wine party, sounds fun....
 
 ## Solution
+If only humans were robotic fast:
+
+```python
+import requests
+import re
+
+url = "http://18.170.40.69:3000/"
+
+sess = requests.session()
+
+sess.get(url)
+
+resp = sess.post(url, data={"Wine":"on", "Cheese":"on"})
+
+print(*re.findall(r"(SESH\{.*?\})", resp.text))
+```
 
 ## Flag
-Flag: `SESH{}`
+Flag: `SESH{Ch3ESe&ndW1neP4rty_It_1s}`

@@ -21,10 +21,9 @@ These have been organized in order they appear on the site:
 | [John's Birthday #1](Cryptography/John's%20birthday%20%231) | 
 
 ### Reversing
-
 | 200pts |
 | ------ |
-| Chocolate Log |
+| [Chocolate Log](Reversing/Chocolate%20Log) |
 
 ### OSINT
 | 150pts | 
@@ -35,6 +34,7 @@ These have been organized in order they appear on the site:
 | 50pts | 110pts | 150pts |
 | ----- | ------ | ------ |
 | [Robotic](Web/Robotic) | [Closing Time](Web/Closing%20Time) | Cache Me Outside |
+| | | Hasbrowns |
 
 ### GEOINT
 | 100pts |

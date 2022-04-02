@@ -20,6 +20,12 @@ These have been organized in order they appear on the site:
 | [Caesar Salad](Cryptography/Caesar%20Salad) |
 | [John's Birthday #1](Cryptography/John's%20birthday%20%231) | 
 
+### Reversing
+
+| 200pts |
+| ------ |
+| Chocolate Log |
+
 ### OSINT
 | 150pts | 
 | ------ |

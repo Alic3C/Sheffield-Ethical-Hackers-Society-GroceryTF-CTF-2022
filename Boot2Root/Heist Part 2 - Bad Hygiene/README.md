@@ -8,7 +8,7 @@ Can you exploit the committee themselves to gain access to their admin page?
 Think back to our Social Engineering sessions - are there are any personal details about the committee that have been exposed that you could use to make some guesses at their passwords?
 
 ## Solution
-Unfourtnatly taking the L on the hint was useless to us as I am not a University of Sheffield student!
+Unfourtnatly taking the L on the hint was useless to me as I am not a University of Sheffield student!
 
 If we visit `35.178.187.4`, we can see the following:
 
